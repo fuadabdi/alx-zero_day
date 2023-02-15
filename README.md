@@ -1,1 +1,1 @@
-I am a Software Engineer
+I am studying Software Engeeering currently at ALX
